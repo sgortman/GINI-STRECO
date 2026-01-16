@@ -1,0 +1,187 @@
+Order,HousePhase
+1,Paleolithic
+2,Epi-Paleolithic
+2.5,Mesolithic
+3,Neolithic
+4,Aceramic Neolithic
+5,Ceramic Neolithic
+6,Early Neolithic
+7,Middle Neolithic
+8,Late Neolithic
+9,Late Neolithic/Early Chalcolithic
+10,Chalcolithic
+11,Early Chalcolithic
+12,Middle Chalcolithic
+13,Middle and Late Chalcolithic
+14,Middle-Final Chalcolithic
+15,Late Chalcolithic
+16,Pre-Cucuteni
+17,Tripolye A2
+18,Tripolye A3
+19,Tripolye B1
+20,Tripolye B2
+21,Tripolye C1
+22,Tripolye C2
+23,Bronze Age
+24,Early Bronze Age
+25,Middle Bronze Age
+26,Late Bronze Age
+27,Iron Age
+28,Iron Age I
+29,Iron Age II
+30,Early Iron Age
+31,Late Iron Age
+32,Geometric
+33,Archaic
+34,Classical
+35,Hellenistic
+36,Roman
+37,Early Roman
+38,Middle Roman
+39,Late Roman
+40,Early Saxon
+41,Middle Saxon
+42,Late Saxon
+43,High-Late medieval
+44,Early Archaic
+45,Middle Archaic
+46,Late Archaic
+47,Preceramic
+48,Cayhuamarca
+49,Vinzos
+50,Early Nazca
+51,Moche IV
+52,Moche V
+53,Sican
+54,Early Chimu
+55,Chimu
+56,Huarco
+57,Wanka
+58,Early Formative
+59,Middle Formative
+60,Late Formative
+61,Terminal Formative
+62,Classic
+63,Early Classic
+64,Late Classic
+65,Early Toltec
+66,Late Toltec
+67,Aztec
+68,Mid-Formative
+69,Mid-Late Classic
+70,Late Preclassic Maya
+71,Early Classic Maya
+72,Late Classic Maya
+73,Terminal Classic Maya
+74,Postclassic Maya
+75,Tiwanaku III
+76,Tiwanaku IV
+77,Late Intermediate
+78,Inka
+79,Reduccion
+80,Republican
+81,Contact-era
+82,Precontact
+83,Matola/Zimbabwe
+84,Kansyore
+85,Pre-Aksumite
+86,Islamic
+87,Swahili
+88,Mutapa
+89,Gokomere/Ziwa
+90,Nok Culture phase
+91,Dogon phase
+92,Jenne-Jeno Phase I/II
+93,Bambara Tradition
+94,Ife
+95,Mandara sites period
+96,Mema
+97,Akan
+98,Bura
+99,Benin Ife
+100,Tichitt
+101,Olifantspoort
+102,Kgopolwe and Letaba
+103,Harare
+104,Zimbabwe
+105,K2
+106,Madikwe
+107,Mapungubwe
+108,Kutama
+109,Pre-Khami Phase
+110,Khami Phase
+111,Nyanga
+112,Ziwa
+113,Toutswe Mogala
+114,Moloko
+115,Buispoort
+116,Rooiberg Facies
+117,Moor Park Phase
+118,Eliand Facies
+119,Ju/hoansi
+120,Late Prehistoric
+121,Great Oasis
+122,Nebraska Phase
+123,Initial Middle Missouri
+124,Extended Middle Missouri
+125,Initial Coalescent
+126,Extended Coalescent
+127,Early Kachemak
+128,Late Kachemak
+129,Kachemak
+130,Early Koniag
+131,Developed Koniag
+132,Koniag
+133,Alutiiq
+134,Early Pacific
+135,Middle Pacific
+136,Late Pacific
+137,BR2
+138,BR3
+139,Euroamerican Contact
+140,Post-Contact Coalescent
+141,Middle Woodland
+142,Late Woodland
+143,Terminal Late Woodland
+144,Lohman
+145,Stirling
+146,Moorehead
+147,Sand Prairie
+148,Early Mississippian
+149,Late Mississippian
+150,Historic SE Indigenous
+151,Early Iroquoian
+152,Middle Iroquoian
+153,Late Iroquoian
+154,Early Fremont
+155,Late Fremont
+156,Fremont
+157,Basketmaker II
+158,Basketmaker III
+159,Pueblo I
+160,Pueblo II
+161,Pueblo III
+161.5,Pueblo IV
+162,Pueblo V
+163,Dinetah
+164,Gobernador
+165,Early Pioneer
+166,Late Pioneer
+167,Gila Butte
+168,Santa Cruz
+169,Sacaton
+170,Soho
+171,Proto-Historic
+172,MR_I
+173,MR_IIA
+174,MD_Int_I
+175,MD_Int_II
+176,MD
+177,FM
+178,MD_Int_III
+179,MD_LateII_I
+180,MD_LateIII
+181,TX
+182,Jomon
+183,Mumum
+184,Yayoi
