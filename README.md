@@ -1,4 +1,5 @@
-Data files necessary to reproduce the results in Kohler, Green and Ortman (2026) Kuznets at -7000: Is there a really long-term relationship between growth
-and inequality?, published in Structural Change and Economic Dynamics.
+Data files and R code necessary to reproduce the results in Kohler, Green and Ortman (2026) Kuznets at -7000: Is there a really long-term relationship between growth and inequality?, published in _Structural Change and Economic Dynamics_ 77 (2026) 207–217.
 
-Note that the all records file is uploaded as an .xlsx document because it fits within the size limits of a github repository. Users will need to convert this to a .csv if they wish to load it in RStudio using the supplied script. 
+Note that the all_records file is uploaded as an .xlsx document since that allows it to fit within the size limits of a github repository. 
+
+The analyses in Part 2 of the code that produce Figures 2a and b in the publication use Bayesian regression models fitted with brms, which require a working Stan backend and a C++ toolchain. The approach in the code provided works on recent Apple silicon, but on some machines it may be necessary to install the CmdStan package (cmdstanr::install_cmdstan()). CmdStan itself requires a working C++ compiler. Platform-specific instructions are available at: https://mc-stan.org/cmdstanr/. The Bayesian models in this repository are computationally intensive and may require several minutes to compile and run, depending on hardware.
