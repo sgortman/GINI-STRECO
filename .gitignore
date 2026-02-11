@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Generated outputs
+output/
